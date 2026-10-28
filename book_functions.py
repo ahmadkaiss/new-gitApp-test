@@ -24,6 +24,7 @@ books = [
 ]
 
 book_id_counter = 3
+print()
 
 
 def manage_books():
