@@ -31,6 +31,7 @@ books = [
         'available_copies': 2,
         'location': 'Shelf A2'
     }
+
 ]
 
 book_id_counter = 3
