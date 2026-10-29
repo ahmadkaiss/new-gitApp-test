@@ -20,6 +20,16 @@ books = [
         'total_copies': 2,
         'available_copies': 2,
         'location': 'Shelf A2'
+    },
+    {
+        'id': 3,
+        'title': 'Python Crash Course',
+        'author': 'Eric Matthes',
+        'year': '2015',
+        'genre': 'Programming',
+        'total_copies': 2,
+        'available_copies': 2,
+        'location': 'Shelf A2'
     }
 ]
 
